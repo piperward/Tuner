@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="artist_options">
+        <item>View recent albums</item>
+        <item>View all albums</item>
+        <item>Remove artist</item>
+    </string-array>
+
+    <string-array name="album_options">
+        <item>Search iTunes</item>
+        <item>Search Google Play</item>
+        <item>Search YouTube</item>
+        <item>Search Amazon</item>
+    </string-array>
+
+</resources>

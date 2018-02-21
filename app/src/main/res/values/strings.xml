@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tuner</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_album_list">AlbumListActivity</string>
+    <string name="title_activity_artist">ArtistActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_search">Search</string>
+    <string name="action_legal_text">Legal</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="no_data">No recent albums</string>
+    <string name="search_hint">Search artists </string>
+    <string name="add_artist_message">Do you want to stay updated on this artist?</string>
+    <string name="edit_list">Edit List</string>
+    <string name="no_artists">You haven\'t selected any artists!</string>
+    <string name="legal_text">Tuner is built using open source software:\n\n
+            \t• Apache Software Foundation\n
+            \t• Android Open Source Project\n
+            \t• ion by Koushik Dutta\n
+            \t• iTunes Search API\n</string>
+    <string name="title_activity_legal_text">LegalTextActivity</string>
+    <string name="apache_license_default">Apache License - Full Text Currently Unavailable</string>
+
+</resources>
